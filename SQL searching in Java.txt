@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/21518917/how-to-perform-a-search-in-an-sql-database-with-a-java-application
+http://literatejava.com/sql/fuzzy-string-search-sql/
+http://docs.oracle.com/javase/tutorial/jdbc/basics/
+https://www.tutorialspoint.com/jdbc/jdbc-sample-code.htm
+https://www.w3schools.com/sql/sql_and_or.asp
+https://stackoverflow.com/questions/11939751/search-a-whole-table-in-mysql-for-a-string
+https://stackoverflow.com/questions/14290857/sql-select-where-field-contains-words
