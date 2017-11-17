@@ -1,0 +1,3 @@
+String from = MainPage.sqlm.getUser().getLoggedInEmail();
+
+String to is a little more complicated, will update when Asia's SpecificItemPage is done.
